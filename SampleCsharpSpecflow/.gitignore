@@ -1,0 +1,6 @@
+*.feature.cs
+/obj
+/bin
+
+
+.fake
